@@ -1,5 +1,5 @@
 # test
-setup test
+Using this repo to test shaihulud events
 
 DID-282 test: alert on 'addresssanitizer' (must be in the commit message)
 
